@@ -23,4 +23,4 @@ jobs:
           feed_list: "https://cppsenioreas.wordpress.com/feed/"
           gh_token: ${{ secrets.GH_TOKEN }}
           comment_tag_name: "CPP-SENIOREAS-POSTS"
-          template: <li><a href="$url">$title</a>$randomEmoji</li>$newline
+          template: <li><a href="$url">$title</a>$randomEmoji(💯,🔥,💫,🚀,🌮)</li>$newline
