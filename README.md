@@ -1,6 +1,7 @@
 # Cpp-Senioreas-All-Articles
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
+<ul>
 <!-- CPP-SENIOREAS-POSTS:START --><li><a href="https://cppsenioreas.wordpress.com/2025/01/01/reverse-iterations-cpp/">Reverse Iterations</a>$randomEmoji</li>
 <li><a href="https://cppsenioreas.wordpress.com/2024/12/20/adl-avoid-debugging-later/">ADL – Avoid Debugging Later</a>$randomEmoji</li>
 <li><a href="https://cppsenioreas.wordpress.com/2024/10/21/its-just-comma-the-comma-operator-cpp/">It’s just ‘,’ – The Comma Operator</a>$randomEmoji</li>
@@ -47,3 +48,4 @@
 <li><a href="https://cppsenioreas.wordpress.com/2020/07/25/cpp-meta-programming-why/">C++ Meta Programming: Why?</a>$randomEmoji</li>
 <li><a href="https://cppsenioreas.wordpress.com/2020/07/22/before-starting-a-new-project-the-most-important-decision/">Before starting a new project – The Most Important Decision</a>$randomEmoji</li>
 <!-- CPP-SENIOREAS-POSTS:END -->
+</ul>
