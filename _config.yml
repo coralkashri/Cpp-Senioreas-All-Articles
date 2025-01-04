@@ -1,5 +1,10 @@
 title: "C++ Senioreas Articles"
-description: "A collection of articles for C++ Senioreas."
+description: "A collection of articles from C++ Senioreas."
 baseurl: ""
 url: "https://coralkashri.github.io/Cpp-Senioreas-All-Articles"
 theme: minima
+
+# Additional configuration
+author: "Coral Kashri"
+markdown: kramdown
+permalink: pretty
