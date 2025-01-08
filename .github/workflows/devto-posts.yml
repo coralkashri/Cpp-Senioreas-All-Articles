@@ -24,3 +24,4 @@ jobs:
           feed_list: "https://dev.to/feed/coralkashri"
           gh_token: ${{ secrets.GH_TOKEN }}
           comment_tag_name: "DEV-TO-POSTS"
+          template: <li><a href="$url">$title</a>$randomEmoji(💯,🔥,💫,🚀,🌮)</li>$newline
